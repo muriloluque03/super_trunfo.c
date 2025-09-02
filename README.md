@@ -1,5 +1,5 @@
 # super_trunfo.c
-Jogo de Cartas Super Trunfo Países.
+
 #include <stdio.h>
 #include <string.h>
 
